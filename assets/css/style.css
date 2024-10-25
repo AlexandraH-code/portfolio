@@ -20,6 +20,17 @@ h2 {
     color: #184f63; /* dark-blue */
 }
 
+/* Buttons */
+.customs-button {
+    background-color: #1f7798; /*mid-blue*/
+    border-color: #1f7798;
+}
+
+.customs-button:hover:hover {
+    background-color: #1d6d8a;
+    border-color: #1d6d8a;
+}
+
 .sharp-corners,
 .sharp-corners * {
     border-radius: 0;
